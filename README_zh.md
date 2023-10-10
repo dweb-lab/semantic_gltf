@@ -1,6 +1,6 @@
 # Semantic glTF
 
-For English version, please view/edit: <README_en.md> , still empty until now.
+For English version, please view/edit: [README.md](README.md) , still empty until now.
 
 语义化glTF
 
