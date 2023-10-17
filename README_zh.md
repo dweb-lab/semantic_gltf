@@ -24,4 +24,5 @@ For English version, please view/edit: [README.md](README.md) , still empty unti
 - [Annotation/classifcation/semantic extension for Machine Learning community #1121](https://github.com/KhronosGroup/glTF/issues/1121)
 - [SHADERed](https://github.com/dfranx/SHADERed)
 - [Blender Shader Nodes](https://docs.blender.org/manual/en/latest/render/shader_nodes/index.html)
+- [程序化材质研究](https://zhuanlan.zhihu.com/p/46686345)
 
